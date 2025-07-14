@@ -12,11 +12,11 @@ The generated dataset with masks is available upon request at: https://drive.goo
 
 # Colab Notebook: Cattle Part Segmentation Pipeline
 A Jupyter notebook containing complete walkthrough of our proposed semantic segmentation framework for cattle anatomical part detection. It includes:
-  - Automatic generation of segmentation masks from bounding box annotations
-  - Visualization of dataset samples and their corresponding masks
-  - Network architecture overview (ResNet-50 + ASPP + MSAM)
-  - Model training setup and configuration
-  - Visual evaluation of segmentation results on test set samples
+  - Automatic generation of segmentation masks from bounding box annotations.
+  - Visualization of dataset samples and their corresponding masks.
+  - Network architecture overview (ResNet-50 + ASPP + MSAM).
+  - Model training setup and configuration.
+  - Visual evaluation of segmentation results on test set samples.
 Optimized for use in Google Colab to facilitate reproducibility and experimentation, download dataset and update paths as needed.
 
 # Qualitative Segmentation Results
