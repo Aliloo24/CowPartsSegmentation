@@ -11,6 +11,6 @@ The generated dataset with masks is available upon request at: https://drive.goo
 ![figure_1](https://github.com/user-attachments/assets/743082b3-2e83-43d8-a032-83038c33a08b)
 
 
-# Execution Visualization
+# Qualitative Segmentation Results
 ![figure_6](https://github.com/user-attachments/assets/3ea030b5-129e-495b-b9b5-ab02a7d79a1f)
 
