@@ -17,7 +17,8 @@ A Jupyter notebook containing complete walkthrough of our proposed semantic segm
   - Network architecture overview (ResNet-50 + ASPP + MSAM).
   - Model training setup and configuration.
   - Visual evaluation of segmentation results on test set samples.
-Optimized for use in Google Colab to facilitate reproducibility and experimentation, download dataset and update paths as needed.
+
+Optimized for use in Google Colab to facilitate reproducibility and experimentation, download dataset, best_model.pth file and update paths as needed.
 
 # Qualitative Segmentation Results
 ![figure_6](https://github.com/user-attachments/assets/3ea030b5-129e-495b-b9b5-ab02a7d79a1f)
