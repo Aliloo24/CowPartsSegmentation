@@ -2,7 +2,8 @@
 This repository contains the officiel dataset, trained models, and evaluation scripts for our cattle part segmentation framework based on a modified DeepLabV3+ architecture with ResNet backbones, ASPP, and MSAM attention. The model is designed for precision segmentation of head, body, legs, and tail regions in real-world farm scenarios.
 
 # System Architecture
-[figure_2.pdf](https://github.com/user-attachments/files/22465901/figure_2.pdf)
+<img width="1174" height="551" alt="image" src="https://github.com/user-attachments/assets/6d116f15-6979-4cec-96e6-35964c7f2ae1" />
+
 
 # Dataset
 The generated dataset with masks is available upon request at: https://drive.google.com/drive/folders/1Lo9P2qrSCJMI-Ft2cEjho9qVUShZnN4J?usp=drive_link 
