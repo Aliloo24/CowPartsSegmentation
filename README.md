@@ -6,13 +6,13 @@ This repository contains the officiel dataset, trained models, and evaluation sc
 
 
 # Dataset
-The generated dataset with masks is available upon request at: https://drive.google.com/drive/folders/1Lo9P2qrSCJMI-Ft2cEjho9qVUShZnN4J?usp=drive_link 
+The generated dataset & pretrained weights are available upon request at: https://drive.google.com/drive/folders/1Lo9P2qrSCJMI-Ft2cEjho9qVUShZnN4J?usp=drive_link 
 
 # Dataset Samples with Masks
-![figure_1](https://github.com/user-attachments/assets/743082b3-2e83-43d8-a032-83038c33a08b)
+
 
 # Colab Notebook: Cattle Part Segmentation Pipeline
-A Jupyter notebook containing complete walkthrough of our proposed semantic segmentation framework for cattle anatomical part detection. It includes:
+A Jupyter notebook containing complete walkthrough of our proposed semantic segmentation framework for cattle anatomical part. It includes:
   - Automatic generation of segmentation masks from bounding box annotations.
   - Visualization of dataset samples and their corresponding masks.
   - Network architecture overview (ResNet-50 + ASPP + MSAM).
